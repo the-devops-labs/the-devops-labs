@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omvir Singh
+#  Hi, I'm Omvir Singh
 
 ### DevOps Engineer | Cloud | Automation | Infrastructure as Code
 

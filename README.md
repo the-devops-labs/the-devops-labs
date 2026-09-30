@@ -84,7 +84,7 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 
 ---
 
-# 🏆 DevOps Learning Journey
+#  DevOps Learning Journey
 
 ```text
 🐧 Linux
@@ -107,7 +107,7 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 ```
 
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 I'm always interested in connecting with **DevOps Engineers, SREs, Cloud Engineers, and people passionate about Cloud, Automation, and Infrastructure.**
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omvir Singh
 
-### 🚀 DevOps Engineer | Cloud | Automation | Infrastructure as Code
+### DevOps Engineer | Cloud | Automation | Infrastructure as Code
 
 I’m a **DevOps Engineer with 4+ years of experience** in cloud infrastructure, CI/CD, automation, containerization, and Linux-based environments.
 
@@ -8,19 +8,19 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-* 🔧 **4+ years of experience** in DevOps & Infrastructure
-* ☁️ Working with **AWS & Microsoft Azure**
-* 🏗️ Infrastructure as Code using **Terraform**
-* 🐳 Containerization using **Docker**
-* ☸️ Kubernetes & **AKS**
-* 🔄 CI/CD using **Azure DevOps & Jenkins**
-* 🐧 Linux administration & troubleshooting
-* 📊 Monitoring & Observability
-* 🔐 Cloud networking & security
-* ⚙️ Automation and deployment optimization
-* 📚 Continuously learning and exploring modern DevOps practices
+*  **4+ years of experience** in DevOps & Infrastructure
+*  Working with **AWS & Microsoft Azure**
+*  Infrastructure as Code using **Terraform**
+*  Containerization using **Docker**
+*  Kubernetes & **AKS**
+*  CI/CD using **Azure DevOps & Jenkins**
+*  Linux administration & troubleshooting
+*  Monitoring & Observability
+*  Cloud networking & security
+*  Automation and deployment optimization
+*  Continuously learning and exploring modern DevOps practices
 
 ---
 
@@ -34,7 +34,6 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 ### 🏗️ Infrastructure as Code & Automation
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 
@@ -67,7 +66,8 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 ### AWS
 
 `EC2` `VPC` `IAM` `S3` `RDS` `ALB` `Auto Scaling` `Route 53`
-`CloudWatch` `Lambda` `SNS` `WAF` `Security Groups` `NACL`
+`CloudWatch` `Lambda` `SNS` `WAF` `Security Groups` `NACL` `EKS` 
+`ECR` `WAF` `GuardDuty`   
 
 ### Azure
 
@@ -81,18 +81,6 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 `Monitoring` `Observability` `Troubleshooting` `Backup & DR`
 
 ---
-
-# 📚 Currently Learning
-
-```text
-☸️ Kubernetes & AKS
-🏗️ Advanced Terraform
-☁️ Cloud Architecture
-📊 Observability & SRE
-🔐 DevSecOps
-⚙️ Advanced CI/CD
-🚀 Production-grade Infrastructure
-```
 
 ---
 
@@ -118,27 +106,12 @@ I’m passionate about building **reliable, scalable, and automated infrastructu
 🚀 SRE
 ```
 
----
-
-# 📖 60-Day DevOps Job Preparation Challenge
-
-I’m documenting my **60-Day DevOps Job Preparation Challenge** by learning concepts, practicing hands-on skills, and sharing my DevOps journey.
-
-### Topics
-
-`Linux` `AWS` `Azure` `Terraform` `Docker` `Kubernetes` `CI/CD` `Monitoring` `SRE`
-
-### My Approach
-
-**Learn → Practice → Troubleshoot → Document → Share**
-
----
 
 # 🤝 Let's Connect
 
 I'm always interested in connecting with **DevOps Engineers, SREs, Cloud Engineers, and people passionate about Cloud, Automation, and Infrastructure.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omvir-singh-4a5104279/)
 
 ---
 
